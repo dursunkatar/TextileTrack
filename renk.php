@@ -68,21 +68,5 @@ require_once "db.php";
             }
         });
     }
-
-    function kumasSil(urunId, self) {
-        $.post("ajax.php?islem=kumassil", {id: urunId}, (rowCount) => {
-            if (parseInt(rowCount) > 0) {
-                self.closest('tr').remove();
-            }
-        });
-    }
-
-    function kumasGuncelle(urunId,self) {
-        $.post("ajax.php?islem=kumasguncelle", {id: urunId,renkisim:self.value}, (rowCount) => {
-            if (parseInt(rowCount) > 0) {
-                // alert(rowCount)
-            }
-        });
-    }
 </script>
 <?php require_once "footer.php"; ?>
