@@ -40,7 +40,7 @@ CREATE TABLE `atolyeciler` (
 --
 
 INSERT INTO `atolyeciler` (`ID`, `Ad`, `Soyad`, `Gsm`) VALUES
-(1, 'Dursun', 'Katar', '5522242149');
+(1, 'Dursun', 'Katar', '5555555555');
 
 -- --------------------------------------------------------
 
