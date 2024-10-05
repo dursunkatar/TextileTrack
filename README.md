@@ -1,6 +1,6 @@
-# Tekstil Stok Takip
+# TextileTrack
 
-**Tekstil Stok Takip** is a web-based system developed for managing inventory and accounting in the textile industry. It helps businesses keep track of stock, material inputs, workshop production, and financial operations such as payments and advances.
+**TextileTrack** is a web-based system developed for managing inventory and accounting in the textile industry. It helps businesses keep track of stock, material inputs, workshop production, and financial operations such as payments and advances.
 
 ## Features
 - Manage and track fabric and product inventory.
